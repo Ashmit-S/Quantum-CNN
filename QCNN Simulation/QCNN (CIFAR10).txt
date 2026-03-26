@@ -1,0 +1,13 @@
+Try-
+Normalization values change to 0.5 each
+
+Data Augmentation Apply
+
+Ask if you should use preprocessed data
+
+Done-
+Changed the number of epochs from 2 to 5 to 10
+
+Increased the number of layers in the cnn upto 4, took a lot of time to train
+
+Tried with different learning rate

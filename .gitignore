@@ -1,0 +1,5 @@
+QCNN-master.zip
+__pycache__/
+*.pyc
+.vscode/
+.ipynb_checkpoints/
